@@ -2,7 +2,7 @@ package sudopkill;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-//small check
+//again
 
 @SpringBootApplication
 public class SocialMediaWikiApplication {
